@@ -1,11 +1,12 @@
 ## Hi there 👋
 
+🔭 I’m currently working on OpenEBS. With a background in building storage systems, I'm keen to explore different storage technologies.
 <!--
 **dsharma-dc/dsharma-dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on OpenEBS. With a background in building storage systems, I'm keen to always explore different storage technologies.
+ 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
